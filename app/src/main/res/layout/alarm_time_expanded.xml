@@ -87,7 +87,7 @@
         android:paddingEnd="@dimen/icon_margin"
         android:paddingStart="@dimen/icon_margin"
         android:scrollHorizontally="true"
-        android:maxLines="1"
+        android:singleLine="true"
         android:textAlignment="viewStart"
         app:layout_column="0"
         app:layout_columnSpan="5"

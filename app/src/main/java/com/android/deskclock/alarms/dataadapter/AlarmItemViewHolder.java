@@ -25,6 +25,7 @@ import android.widget.TextView;
 import com.android.deskclock.AlarmUtils;
 import com.android.deskclock.ItemAdapter;
 import com.android.deskclock.ItemAnimator;
+import com.android.deskclock.R;
 import com.android.deskclock.provider.Alarm;
 import com.android.deskclock.provider.AlarmInstance;
 import com.android.deskclock.widget.TextTime;

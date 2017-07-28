@@ -34,6 +34,7 @@ import com.android.deskclock.data.DataModel;
 import com.android.deskclock.data.Weekdays;
 import com.android.deskclock.events.Events;
 import com.android.deskclock.provider.Alarm;
+import com.android.deskclock.R;
 import com.android.deskclock.provider.AlarmInstance;
 
 import java.util.Calendar;
